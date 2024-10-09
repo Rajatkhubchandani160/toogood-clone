@@ -443,9 +443,7 @@ html,body{
     justify-content: space-between;
     margin-left: 1vh;
  }
- #part2 #logo>#footer-logo{
-    width: 200px;
- }
+ 
  #logo-links a{
     text-decoration: none;
     font-size: 1.8vh;
